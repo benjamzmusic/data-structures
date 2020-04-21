@@ -1,6 +1,7 @@
 ## Welcome to my page
 
 ![image of BenJamz]
+
 https://github.com/benjamzmusic/data-structures/blob/master/IMG_2641%20(1).jpg?raw=true
 
 _I used the editor on GitHub pages to configure this site_
