@@ -1,43 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/benjamzmusic/data-structures/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+_I used the editor on GitHub pages to configure this site_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My page is running on **Jekyll**
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am currently using **_MARKDOWN_** to style my text
 
-```markdown
-Syntax highlighted code block
 
-**# Header 1**
-
-_## Header 2_
 
 **Ben editing text in BOLD**
 
-### Header 3
+
 
 _This is in italics_
 
-- Bulleted
-- List
+- This 
+- Was
+- A
+- Test
 
-1. Numbered
-2. List
+1. Uno
+2. Dos
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/benjamzmusic/data-structures/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
